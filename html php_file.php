@@ -1,4 +1,10 @@
-
+<html>
+<head>
+<title>vijay</title>
+</head>
+<body>
 <?php
-echo "<h1>hello world vijay</h1>";
+echo "vijay";
 ?>
+</body>
+</html>
